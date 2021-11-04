@@ -1,1 +1,1 @@
-"This file B" 
+"This file B" -- file B -version B
